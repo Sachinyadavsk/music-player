@@ -1,5 +1,6 @@
 import React from 'react'
 import { TbPlaylist } from "react-icons/tb";
+import skmlogo from "../../public/skm_logo.png";
 
 import './Header.css'
 
@@ -7,7 +8,7 @@ const Header = ({ onClickPlayList }) => {
     return (
         <div className='player-header'>
             <h3 className='player-title'>
-                <img src='zunzun.png' alt='logo' />
+                <img src={skmlogo} alt='logo' />
                 Zunzun Player
             </h3>
 
