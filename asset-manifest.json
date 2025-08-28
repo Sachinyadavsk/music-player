@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/music-player/static/css/main.d51fad6f.css",
-    "main.js": "/music-player/static/js/main.552d1cd4.js",
+    "main.js": "/music-player/static/js/main.3ff2c78d.js",
+    "static/media/skm_logo.png": "/music-player/static/media/skm_logo.8de47fb40efd4bac1766.png",
     "index.html": "/music-player/index.html",
     "main.d51fad6f.css.map": "/music-player/static/css/main.d51fad6f.css.map",
-    "main.552d1cd4.js.map": "/music-player/static/js/main.552d1cd4.js.map"
+    "main.3ff2c78d.js.map": "/music-player/static/js/main.3ff2c78d.js.map"
   },
   "entrypoints": [
     "static/css/main.d51fad6f.css",
-    "static/js/main.552d1cd4.js"
+    "static/js/main.3ff2c78d.js"
   ]
 }
