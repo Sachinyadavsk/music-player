@@ -1,6 +1,6 @@
 import React from 'react'
 import { TbPlaylist } from "react-icons/tb";
-import skmlogo from "../../public/skm_logo.png";
+import skmlogo from "../images/skm_logo.png";
 
 import './Header.css'
 
